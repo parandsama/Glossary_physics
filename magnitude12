@@ -1,0 +1,5 @@
+\newglossaryentry{magnitude}
+{
+    name=magnitude,
+    description={magnitude is the absolute quantity of something in absence of direction.It usually means the absolute "size" of a quantity, ignoring other details like sign and direction.}
+}
