@@ -1,0 +1,5 @@
+\newglossaryentry{magnitude}
+{
+    name=magnitude,
+    description={magnitude is the quantity or amount of something.}
+}
