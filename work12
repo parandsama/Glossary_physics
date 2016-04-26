@@ -1,0 +1,5 @@
+\newglossaryentry{work}
+{
+    name=work,
+    description={Work is done when a force that is applied to an object moves that object. The work is calculated by multiplying the force by the amount of movement of an object.}
+}
